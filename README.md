@@ -79,7 +79,7 @@ Mobile devices
 
 The card grid automatically adjusts according to screen size and difficulty.
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 This project demonstrates practical JavaScript concepts including:
 
@@ -96,8 +96,10 @@ localStorage
 Dynamic rendering
 Responsive design
 
-📂 Project Structure
-memory-match-game/
+## 📂 Project Structure
+
+```text
+todo-app/
 │
 ├── index.html
 │
@@ -105,6 +107,6 @@ memory-match-game/
 │   └── style.css
 │
 ├── js/
-│   └── game.js
+│   └── app.js
 │
 └── README.md
